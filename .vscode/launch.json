@@ -13,7 +13,7 @@
     
     "request": "launch",
     
-    "program": "${workspaceFolder}/${fileBasenameNoExtension}.exe",
+    "program": "${workspaceFolder}\\bin\\${fileBasenameNoExtension}.exe",
     
     "args": [],
     
@@ -55,7 +55,7 @@
     
     "request": "launch",
     
-    "program": "${workspaceFolder}/${fileBasenameNoExtension}.exe",
+    "program": "${workspaceFolder}\\bin\\${fileBasenameNoExtension}.exe",
     
     "args": [],
     

@@ -18,7 +18,7 @@
     
     "-o",
     
-    "${fileBasenameNoExtension}",
+    "${workspaceFolder}/bin/${fileBasenameNoExtension}",
     
     "${file}",
     ],
@@ -45,11 +45,9 @@
     
     "-o",
     
-    "${fileBasenameNoExtension}",
+    "${workspaceFolder}/bin/${fileBasenameNoExtension}",
     
     "${file}",
-    "-lboost_system",
-    "-lboost_filesystem"
     
     ],
     

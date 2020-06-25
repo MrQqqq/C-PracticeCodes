@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "vector": "cpp"
-    }
+    },
+    "code-runner.executorMap": {
+        "cpp": " cd $dir && g++ $fileName -o C:/Users/86151/Desktop/cpp/bin/$fileNameWithoutExt.exe  && C:/Users/86151/Desktop/cpp/bin/$fileNameWithoutExt.exe "
+    }, // 设置code runner的命令行
 }
