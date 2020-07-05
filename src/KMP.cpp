@@ -1,7 +1,15 @@
+/*
+ * @Description: 
+ * @Author: szq
+ * @Github: https://github.com/MrQqqq
+ * @Date: 2020-06-26 10:04:08
+ * @LastEditors: szq
+ * @LastEditTime: 2020-06-26 10:04:08
+ * @FilePath: \cpp\src\KMP.cpp
+ */ 
 #include <iostream>
 using namespace std;
 
-#define MaxSize 255
 void getNext(int *next,string s){
     int j = 0;
     int k = -1;

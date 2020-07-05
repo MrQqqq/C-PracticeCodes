@@ -4,11 +4,11 @@
  * @Github: https://github.com/MrQqqq
  * @Date: 2020-05-13 03:01:51
  * @LastEditors: szq
- * @LastEditTime: 2020-05-13 03:07:57
- * @FilePath: \笔记c:\Users\86151\Desktop\cpp\testRand.cpp
+ * @LastEditTime: 2020-07-05 10:18:23
+ * @FilePath: \cpp\src\testRand.cpp
  */
 #include<iostream>
-#include<stdlib.h>
+// #include<stdlib.h>
 #include<time.h>
 #include<vector>
 using namespace std;
